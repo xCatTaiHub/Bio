@@ -1,0 +1,36 @@
+.buttonz {
+    float: left;
+    border-radius: 20px;
+    color: black;
+    cursor: pointer;
+}
+.body {
+    background-image: url('https://hoanghamobile.com/tin-tuc/wp-content/webp-express/webp-images/uploads/2024/08/Hutao.jpg.webp');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body {
+    padding: 30px 20px;
+    font-family: sans-serif, Arial;
+}
+.a {
+padding-top: 10px;
+}
+.script {
+    border: 2px solid black;
+    padding: 5px;
+    margin: 3px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.kaitun {
+    border: 2px solid black;
+    padding: 5px;
+    margin: 3px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.name {
+    text-align: center;
+}
